@@ -1,0 +1,10 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  export = ["smsotp"]
+  name = "smsotp"
+  org = "tdorg"
+  version = "0.1.0"
+
